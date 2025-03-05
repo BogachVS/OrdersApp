@@ -1,0 +1,14 @@
+#root {
+    height: 100%;
+    width: 100%;
+}
+
+#navbar {
+    padding-bottom: 30px;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
